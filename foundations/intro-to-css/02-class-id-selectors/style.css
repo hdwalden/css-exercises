@@ -1,0 +1,26 @@
+/* styles.css */
+
+.class-sentence {
+    background-color: pink;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+#num3 {
+    font-size: 32px;
+}
+
+div {
+    font-weight: bold;
+}
+
+#num2 {
+    color: #0000ff;
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#num4 {
+    background-color: rgb(103, 249, 103);
+    font-size: 20px;
+}
